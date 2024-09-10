@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Other ignored files can be listed here
+__pycache__/
+*.py[cod]
