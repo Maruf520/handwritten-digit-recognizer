@@ -1,5 +1,3 @@
-# handwritten-digit-recognizer neural-netwrk
-
 # MNIST Handwritten Digit Recognition
 
 This project demonstrates how to load the MNIST dataset, which contains hand-written digit images (0-9), each of size 28x28 pixels. The dataset is split into training and test sets and is commonly used for building and evaluating machine learning models.
