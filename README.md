@@ -1,4 +1,4 @@
-# handwritten-digit-recognizer
+# handwritten-digit-recognizer neural-netwrk
 
 # MNIST Handwritten Digit Recognition
 
@@ -29,3 +29,5 @@ from tensorflow.keras.datasets import mnist
 print(train_images.shape)  # Output: (60000, 28, 28)
 print(test_images.shape)   # Output: (10000, 28, 28)
 ```
+
+This ensures that
